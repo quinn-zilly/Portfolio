@@ -1,7 +1,7 @@
 
 # Portfolio
 Violet's GitHub Repository: A Professional Portfolio
-
+____________________________________________________
 View my work below! 
 
 [📄 Open My Resume](https://github.com/VioletGabales/Portfolio/blob/main/Violet's%20Resume.pdf)
