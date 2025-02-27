@@ -7,5 +7,5 @@ View my work below!
 
 [📄 View my Change Management Methodology](https://github.com/VioletGabales/Portfolio/blob/main/DMAIC%20%26%20ADKAR%20Basics%20Handout%20V2.%209.9.24%20(1).pdf)
 
-[📄 See my Team's Process Improvement Toolkit!](https://github.com/VioletGabales/Portfolio/blob/main/Process%20Improvement%20Toolkit.pdf)
+[📄 See my Team's Process Improvement Toolkit! Note: Please do NOT share outside of ISM6002! ](https://github.com/VioletGabales/Portfolio/blob/main/Process%20Improvement%20Toolkit.pdf)
 
