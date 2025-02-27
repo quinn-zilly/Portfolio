@@ -1,6 +1,6 @@
 
 # Portfolio
-Violet's GitHub Repository: A Professional Portfolio
+# Violet's GitHub Repository: A Professional Portfolio
 
 View my work below! 
 
