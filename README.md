@@ -1,6 +1,3 @@
-[Portfolio/
-├── index.html
-├── styles.css]
 
 # Portfolio
 Violet's GitHub Repository: A Professional Portfolio
