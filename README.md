@@ -1,4 +1,4 @@
-theme: Slate theme
+
 # Portfolio
 Violet's GitHub Repository: A Professional Portfolio
 ____________________________________________________
