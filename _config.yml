@@ -1,0 +1,5 @@
+theme: null  # Disables Jekyll theme processing
+exclude:
+  - README.md
+  - LICENSE
+  - node_modules
